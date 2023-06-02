@@ -1,10 +1,31 @@
 [
   {
-    "name": "Simba",
+    "name": "Cheshire Cat",
     "type": "Fictional",
-    "dob": 1994,
-    "description": "Simba is the main character in Disney's 'The Lion King.' While not a domestic cat, Simba is a courageous lion cub who embarks on a journey to reclaim his kingdom.",
-    "catchphrase": "Hakuna Matata!"
+    "dob": 1865,
+    "description": "The Cheshire Cat is a character from Lewis Carroll's 'Alice's Adventures in Wonderland.' He is known for his mischievous grin and ability to disappear and reappear at will.",
+    "quirk": "The Cheshire Cat can speak in riddles and often confuses those he encounters."
+  },
+  {
+    "name": "Bagheera",
+    "type": "Fictional",
+    "dob": 1894,
+    "description": "Bagheera is a sleek black panther and a character from Rudyard Kipling's 'The Jungle Book.' He is wise and protective of Mowgli, the story's protagonist.",
+    "catchphrase": "I'm always watching over you, little one."
+  },
+  {
+    "name": "Shere Khan",
+    "type": "Fictional",
+    "dob": 1894,
+    "description": "Shere Khan is a fearsome Bengal tiger and the main antagonist in Rudyard Kipling's 'The Jungle Book.' He is known for his cunning nature and desire to hunt Mowgli.",
+    "catchphrase": "I will have my prey, one way or another."
+  },
+  {
+    "name": "Felix the Cat",
+    "type": "Fictional",
+    "dob": 1919,
+    "description": "Felix the Cat is one of the oldest and most recognizable cartoon characters. He is a black and white cat known for his mischievous nature and ability to shape-shift.",
+    "catchphrase": "Righty-o!"
   },
   {
     "name": "Tigger",
@@ -15,17 +36,10 @@
     "quirk": "Hi loves to bounce and pounce on everything."
   },
   {
-    "name": "Felix the Cat",
+    "name": "Simba",
     "type": "Fictional",
-    "dob": 1919,
-    "description": "Felix the Cat is one of the oldest and most recognizable cartoon characters. He is a black and white cat known for his mischievous nature and ability to shape-shift.",
-    "catchphrase": "Righty-o!"
-  },
-  {
-    "name": "Cheshire Cat",
-    "type": "Fictional",
-    "dob": 1865,
-    "description": "The Cheshire Cat is a character from Lewis Carroll's 'Alice's Adventures in Wonderland.' He is known for his mischievous grin and ability to disappear and reappear at will.",
-    "quirk": "The Cheshire Cat can speak in riddles and often confuses those he encounters."
-  },
+    "dob": 1994,
+    "description": "Simba is the main character in Disney's 'The Lion King.' While not a domestic cat, Simba is a courageous lion cub who embarks on a journey to reclaim his kingdom.",
+    "catchphrase": "Hakuna Matata!"
+  }
 ]
