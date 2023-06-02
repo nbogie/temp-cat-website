@@ -1,5 +1,11 @@
 [
   {
+    "name": "Nedjem",
+    "type": "Historical",
+    "description": "The cat of Puimre, second priest of Amun during the reign of Queen Hatshepsut. Depicted on a damaged relief from Puimre's tomb, Nedjem is the earliest known cat to bear an individual name.",
+    "dob": "15th century BC."
+  },
+  {
     "name": "Cheshire Cat",
     "type": "Fictional",
     "dob": 1865,
@@ -41,5 +47,11 @@
     "dob": 1994,
     "description": "Simba is the main character in Disney's 'The Lion King.' While not a domestic cat, Simba is a courageous lion cub who embarks on a journey to reclaim his kingdom.",
     "catchphrase": "Hakuna Matata!"
+  },
+  {
+    "name": "Félicette",
+    "type": "Historical",
+    "description": "Félicette was a French stray cat who became the first and only cat to be launched into space. On October 18, 1963, she reached an altitude of about 97 miles  aboard the French Véronique AGI sounding rocket.",
+    "dob": 1961
   }
 ]
