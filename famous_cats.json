@@ -1,10 +1,31 @@
 [
   {
-    "name": "Tigger",
-    "dob": 1928
+    "name": "Simba",
+    "type": "Fictional",
+    "dob": 1994,
+    "description": "Simba is the main character in Disney's 'The Lion King.' While not a domestic cat, Simba is a courageous lion cub who embarks on a journey to reclaim his kingdom.",
+    "catchphrase": "Hakuna Matata!"
   },
   {
-    "name": "Simba",
-    "dob": 1994
-  }
+    "name": "Tigger",
+    "type": "Fictional",
+    "dob": 1928,
+    "description": "Tigger is a bouncy tiger character from A.A. Milne's 'Winnie-the-Pooh' stories. He has a cheerful and energetic personality and loves to bounce on his tail.",
+    "catchphrase": "Tiggerific!",
+    "quirk": "Hi loves to bounce and pounce on everything."
+  },
+  {
+    "name": "Felix the Cat",
+    "type": "Fictional",
+    "dob": 1919,
+    "description": "Felix the Cat is one of the oldest and most recognizable cartoon characters. He is a black and white cat known for his mischievous nature and ability to shape-shift.",
+    "catchphrase": "Righty-o!"
+  },
+  {
+    "name": "Cheshire Cat",
+    "type": "Fictional",
+    "dob": 1865,
+    "description": "The Cheshire Cat is a character from Lewis Carroll's 'Alice's Adventures in Wonderland.' He is known for his mischievous grin and ability to disappear and reappear at will.",
+    "quirk": "The Cheshire Cat can speak in riddles and often confuses those he encounters."
+  },
 ]
