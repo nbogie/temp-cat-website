@@ -1,3 +1,8 @@
 img {
   padding: 10px;
 }
+
+body {
+  margin: 50px auto;
+  max-width: 1000px;
+}
